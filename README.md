@@ -1,6 +1,6 @@
 # NLP-Spark <br />
 # *The ultimate predicted results give a AUC score of 0.85652 on Testing datasets
-Product reviews play a crucial role in the purchasing decision of a customer. We are using Amazon's review info to find out which reviews are helpful<br />
+Company values product reviews as they play an important role in the purchasing decision of a customer. We are using Amazon's review info to find out which reviews are helpful<br />
 Data Volume is around 5 millions from the past decades. <br />
 ##{ 
   "reviewID": "15632", <br />
